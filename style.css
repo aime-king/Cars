@@ -11,28 +11,8 @@ body {
       text-align: center;
       padding: 20px;
     }
-    nav {
-      background: #444;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    section {
-      padding: 20px;
-    }
-    .car {
-      background: white;
-      margin: 15px 0;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-    }
- 
+   img{
+    width: 600px;
+    height: 300px;
+    padding-left: 20px;
+   }
